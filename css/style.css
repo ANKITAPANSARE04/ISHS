@@ -231,6 +231,7 @@ footer hr {
 
 .old-bg1 {
     background: url('../images/old-bg.png');
+    overflow-x:hidden;
     background-size: cover;
     padding: 200px 0 !important;
     background-position: top center;
