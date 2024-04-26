@@ -232,7 +232,7 @@ footer hr {
 .old-bg1 {
     background: url('../images/old-bg.png');
     background-size: cover;
-    padding: 200px 0;
+    padding: 200px 0 !important;
     background-position: top center;
     background-attachment: fixed;
 }
